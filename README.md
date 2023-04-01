@@ -10,11 +10,8 @@
 Я открыт к предложениям на позицию frontend-разработчика, где могу внести свой вклад и развиваться вместе с компанией. Если у вас есть вакансия, которая соответствует моим навыкам и опыту, не стесняйтесь связаться со мной, буду рад сотрудничеству.
 
 <h2> 🔨Мой стек </h2>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<img src="https://img.shields.io/static/v1?label&message=GIT&color=black&logo=git">
-<img src="https://img.shields.io/static/v1?label&message=Figma&color=black&logo=Figma">
+![l](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![langs](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 <h2> 🎯 Мои цели: </h2>
 - Развиваться и самореализоваться в веб-разработке
@@ -23,7 +20,7 @@
 - Быть успешным it специалистом
 
 <h2> 📫Cвязаться со мной </h2>
-<a href = 'https://www.linkedin.com/in/emin-agjaev-9aba1322a'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emin-agjaev-9aba1322a) [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/emin_az14)
 
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="894" height="400" />
